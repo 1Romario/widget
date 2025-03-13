@@ -1,7 +1,7 @@
 {
   "widget_class": "custom-ad-widget",
-  "styles": "position: fixed; top: 0; left: 0; width: 100%; height: 70px; background: #ffcc00; display: flex; align-items: center; justify-content: space-between; padding: 0 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); z-index: 9999;",
+  "styles": "position: fixed; top: 0; left: 0; width: 100%; height: 70px; background: #ffcc00; display: flex; align-items: center; justify-content: space-between; padding: 0 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); z-index: 9999; cursor: pointer;",
   "widget_url": "https://aesthetic-duckanoo-8b984d.netlify.app/ad-script.js",
-  "banner_html": "<div class='ad-banner'><span>🔥 Спеціальна пропозиція! Отримайте <strong>20% знижки</strong> лише сьогодні!</span> <button class='ad-btn' onclick='window.open(\"https://kryptomoney.co\", \"_blank\")'>Дізнатись більше</button><span class='ad-close'>&times;</span></div>",
+  "banner_html": "<div class='ad-banner'><span>🔥 Спеціальна пропозиція! Отримайте <strong>20% знижки</strong> лише сьогодні!</span> <button class='ad-btn'>Дізнатись більше</button><span class='ad-close'>&times;</span></div>",
   "css": ".ad-banner { width: 100%; display: flex; align-items: center; justify-content: space-between; font-family: Arial, sans-serif; font-size: 16px; } .ad-btn { background: red; color: white; border: none; padding: 8px 12px; cursor: pointer; border-radius: 5px; } .ad-close { font-size: 24px; cursor: pointer; padding: 10px; }"
 }
