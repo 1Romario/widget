@@ -4,5 +4,6 @@
   "widget_url": "https://aesthetic-duckanoo-8b984d.netlify.app/ad-script.js",
   "redirect_url": "https://kryptomoney.co",
   "banner_html": "<div class='ad-banner'><span>🔥 Спеціальна пропозиція! Отримайте <strong>20% знижки</strong> лише сьогодні!</span> <button class='ad-btn'>Дізнатись більше</button><span class='ad-close'>&times;</span></div>",
-  "css": ".ad-banner { width: 100%; display: flex; align-items: center; justify-content: space-between; font-family: Arial, sans-serif; font-size: 16px; } .ad-btn { background: red; color: white; border: none; padding: 8px 12px; cursor: pointer; border-radius: 5px; } .ad-close { font-size: 24px; cursor: pointer; padding: 10px; }"
+  "css": ".ad-banner { width: 100%; display: flex; align-items: center; justify-content: space-between; font-family: Arial, sans-serif; font-size: 16px; } .ad-btn { background: red; color: white; border: none; padding: 8px 12px; cursor: pointer; border-radius: 5px; } .ad-close { font-size: 24px; cursor: pointer; padding: 10px; }",
+  "excluded_domains": ["google.com", "youtube.com"]  // Винесений список доменів
 }
